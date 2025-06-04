@@ -3,7 +3,7 @@
 `termcopy` é uma ferramenta simples para facilitar a cópia e colagem de arquivos via terminal Linux. Ela disponibiliza dois comandos:
 
 - `copy caminho/do/arquivo` — copia o arquivo para uma área temporária
-- `paste caminho/da/pasta` — cola (move) o arquivo copiado para a pasta destino
+- `paste` — cola (move) o arquivo copiado para a pasta destino
 
 ---
 
